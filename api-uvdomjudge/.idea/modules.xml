@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/api-uvdomjudge.iml" filepath="$PROJECT_DIR$/.idea/api-uvdomjudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app-uvdomjudge/.idea/app-uvdomjudge.iml" filepath="$PROJECT_DIR$/../app-uvdomjudge/.idea/app-uvdomjudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../containers-uvdomjudge/.idea/containers-uvdomjudge.iml" filepath="$PROJECT_DIR$/../containers-uvdomjudge/.idea/containers-uvdomjudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pg/.idea/pg.iml" filepath="$PROJECT_DIR$/../pg/.idea/pg.iml" />
+    </modules>
+  </component>
+</project>
