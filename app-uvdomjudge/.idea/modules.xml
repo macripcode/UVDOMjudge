@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../api-uvdomjudge/.idea/api-uvdomjudge.iml" filepath="$PROJECT_DIR$/../api-uvdomjudge/.idea/api-uvdomjudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/app-uvdomjudge.iml" filepath="$PROJECT_DIR$/.idea/app-uvdomjudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../containers-uvdomjudge/.idea/containers-uvdomjudge.iml" filepath="$PROJECT_DIR$/../containers-uvdomjudge/.idea/containers-uvdomjudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pg/.idea/pg.iml" filepath="$PROJECT_DIR$/../pg/.idea/pg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rabbit2/.idea/rabbit2.iml" filepath="$PROJECT_DIR$/../rabbit2/.idea/rabbit2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taller_algoritmia/.idea/taller_algoritmia.iml" filepath="$PROJECT_DIR$/../taller_algoritmia/.idea/taller_algoritmia.iml" />
+    </modules>
+  </component>
+</project>
